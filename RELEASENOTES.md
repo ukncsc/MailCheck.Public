@@ -1,6 +1,27 @@
 # Release Notes
 
 
+## What's new in release 2020-11-25
+
+### :rocket: Improvements
+
+- Updated advice on Email Traffic IPs page
+
+- Updated advice on SPF lookup advisories
+
+- Removed 'Beta' badge
+
+- Notifications now available for TLS changes
+
+- Display familiar names for popular email providers
+
+### :bug: Fixes
+
+- Fix for CSV export
+
+- DMARC advisories use `sp` field correctly
+
+
 ## What's new in release 2020-10-22
 
 ### :rocket: Improvements
