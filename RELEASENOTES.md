@@ -1,6 +1,49 @@
 # Release Notes
 
 
+## What's new in release 2021-05-26
+
+### :rocket: Improvements
+
+- TLS-RPT report processing
+
+- MTA-STS support
+
+- Integrate Mail Check advisories with MyNCSC findings
+
+- Group ARC forwarded emails together
+
+- Improve poller reliability
+
+- Distributed polling
+
+- Positive TLS advisories
+
+### :bug: Fixes
+
+- Fix slow aggregate report query
+
+- Multiple TLS tester improvements
+
+- DKIM certificates show correctly
+
+- Ignore SPF macros in record expansion
+
+- Inefficient SQL fixes
+
+- Prevent recursion in SPF expansion
+
+- Aggregate Report fails gracefully on invalid report
+
+- Fix for blank CSV download
+
+- Rationalise logging and message sending in Entities
+
+- Fix for DKIM polling errors
+
+- Batch DKIM scheduled reminders
+
+
 ## What's new in release 2020-11-25
 
 ### :rocket: Improvements
