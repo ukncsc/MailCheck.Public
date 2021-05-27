@@ -1,13 +1,22 @@
 # Release Notes
 
 
+## What's new in release 2021-05-27
+
+### :rocket: Improvements
+
+- MTA-STS support
+
+### :bug: Fixes
+
+- 
+
+
 ## What's new in release 2021-05-26
 
 ### :rocket: Improvements
 
 - TLS-RPT report processing
-
-- MTA-STS support
 
 - Integrate Mail Check advisories with MyNCSC findings
 
