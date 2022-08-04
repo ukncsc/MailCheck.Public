@@ -43,4 +43,3 @@ If you'd like to contribute please follow these steps:
 1. Sign the [GCHQ Contributor Licence Agreement](https://github.com/gchq/Gaffer/wiki/GCHQ-OSS-Contributor-License-Agreement-V1.0).
 2. Push your changes to your fork.
 3. Submit a pull request.
-
