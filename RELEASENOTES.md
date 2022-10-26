@@ -1,5 +1,31 @@
 # Release Notes
 
+## What's new in release 2022-10-25
+
+Public release of the following microservices:
+- MailCheck.Public.Insights
+- MailCheck.Public.EmailSecurity
+- MailCheck.Public.DomainStatus
+- MailCheck.Public.Scheduler
+- MailCheck.Public.Common
+- MailCheck.Public.Frontend
+
+## What's new in release 2022-08-03
+
+### :rocket: Improvements
+
+MailCheck.Public.AggregateReport/Dkim/Dmarc/MtaSts/Mx/Spf/TlsRpt
+- Upgrade to .NET Core 3.1
+- Various advisory improvements
+- New mechanism for sending findings to MyNCSC
+- Improvements to monitoring and logging
+- Aurora upgrade to 2.07.6 and deletion protections added
+- Various security fixes
+- Authorization improvements
+
+MailCheck.Public.Mx
+- Simplified TLS testing to 3 core tests
+- TLS testing per IP address instead of per host
 
 ## What's new in release 2021-05-27
 
